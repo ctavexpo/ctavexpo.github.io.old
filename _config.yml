@@ -3,7 +3,7 @@ title: Brookeville
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "allanjpb.github.io/allanjpb" # the base hostname & protocol for your site
+url: "allanjpb.github.io/allanjpb/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
